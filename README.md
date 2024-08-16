@@ -9,7 +9,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 I am passionate about identifying and mitigating threats to protect critical infrastructures. 
 My goal is to become a Cyber Defense Analyst at a government agency, where I can leverage my technical expertise to fortify digital defenses and contribute to national security.
 
-## Skills
+## Skills [IN PROGRESS]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +20,7 @@ My goal is to become a Cyber Defense Analyst at a government agency, where I can
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Tools [IN PROGRESS]
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
@@ -43,7 +43,7 @@ My goal is to become a Cyber Defense Analyst at a government agency, where I can
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications [IN PROGRESS]
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,6 +53,6 @@ My goal is to become a Cyber Defense Analyst at a government agency, where I can
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Projects [IN PROGRESS]
 - Detection Lab
 - SOC Automation Project
