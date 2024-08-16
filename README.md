@@ -1,17 +1,15 @@
 # Hello, I'm Hassan
 <a href="https://www.linkedin.com/in/hassan-m-raja"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated Cybersecurity professional with a robust background in Cybersecurity, cloud computing, and networking. Currently pursuing a degree in Information Technology with a concentration in Cybersecurity. I've honed my skills through hands-on experience and various certifications, including CompTIA CySA+, CompTIA PenTest+, SBT BTL1, and AWS Certified Solutions Architect Associate.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.  
+I am passionate about identifying and mitigating threats to protect critical infrastructures. 
+My goal is to become a Cyber Defense Analyst at a government agency, where I can leverage my technical expertise to fortify digital defenses and contribute to national security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
