@@ -45,28 +45,28 @@ My goal is to become a Cyber Defense Analyst at a government agency, where I can
 
 ## Certifications
 <div>
-    <a href="https://www.credly.com/badges/your-cysa-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/8b879f47-d804-4f94-a057-324a93b8c186/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+" />
     </a>
-    <a href="https://www.securityblue.team/btl1" target="_blank">
+    <a href="https://www.credly.com/badges/f3e9572c-ee8a-452a-ab41-380c5211382d/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-BTL1-1E90FF?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" alt="Blue Team Level 1" />
     </a>
-    <a href="https://www.credly.com/badges/your-pentest-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/4e2bd21b-191e-42da-90aa-d7ea962c6283/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-PenTest%2B-FF4500?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA PenTest+" />
     </a>
-    <a href="https://www.credly.com/badges/your-securityplus-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/3cfbd833-18c2-4978-833d-65427898a5c3/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
     </a>
-    <a href="https://www.credly.com/badges/your-networkplus-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/96af8caa-ddea-4b91-a80e-fc6df17c3d80/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+" />
     </a>
-    <a href="https://www.credly.com/badges/your-aplus-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/6b11d9f7-abb0-4937-8201-262e8e798e75/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" />
     </a>
-    <a href="https://www.credly.com/badges/your-aws-solutions-architect-associate-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/d9f0e9ba-14a7-4421-aa63-17185b017fa9/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
     </a>
-    <a href="https://www.credly.com/badges/your-aws-cloud-practitioner-badge-id" target="_blank">
+    <a href="https://www.credly.com/badges/00465d50-e2f8-4dc0-9fd1-450c3333d963/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Certified Cloud Practitioner" />
     </a>
 </div>
