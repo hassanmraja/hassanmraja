@@ -5,9 +5,9 @@ I am a dedicated Cybersecurity professional with a robust background in Cybersec
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.  
+My journey in Information Technology has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field.  
 I am passionate about identifying and mitigating threats to protect critical infrastructures. 
-My goal is to become a Cyber Defense Analyst at a government agency, where I can leverage my technical expertise to fortify digital defenses and contribute to national security.
+My goal is to become a Cyber Defense Analyst at a U.S. government agency, where I can leverage my technical expertise to fortify digital defenses and contribute to national security.
 
 ## Skills [IN PROGRESS]
 
