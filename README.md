@@ -43,16 +43,34 @@ My goal is to become a Cyber Defense Analyst at a government agency, where I can
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications [IN PROGRESS]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.credly.com/badges/your-cysa-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+" />
+    </a>
+    <a href="https://www.securityblue.team/btl1" target="_blank">
+        <img src="https://img.shields.io/badge/-BTL1-1E90FF?&style=for-the-badge&logo=SecurityBlueTeam&logoColor=white" alt="Blue Team Level 1" />
+    </a>
+    <a href="https://www.credly.com/badges/your-pentest-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-PenTest%2B-FF4500?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA PenTest+" />
+    </a>
+    <a href="https://www.credly.com/badges/your-securityplus-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
+    </a>
+    <a href="https://www.credly.com/badges/your-networkplus-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+" />
+    </a>
+    <a href="https://www.credly.com/badges/your-aplus-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" />
+    </a>
+    <a href="https://www.credly.com/badges/your-aws-solutions-architect-associate-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+    </a>
+    <a href="https://www.credly.com/badges/your-aws-cloud-practitioner-badge-id" target="_blank">
+        <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+    </a>
 </div>
+
 
 ## Projects [IN PROGRESS]
 - Detection Lab
